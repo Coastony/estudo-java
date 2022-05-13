@@ -1,3 +1,3 @@
 # estudo_java
-Conceitos sobre filas, listas encadeadas, pilhas e nó<br>
+Conceitos sobre Filas, Listas Encadeadas, Pilhas e Nó.<br>
 Branch(master)
